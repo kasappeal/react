@@ -75,3 +75,5 @@ export {
   useTransition,
   version,
 } from './src/React';
+
+console.log('Qué pasa madafaka');
