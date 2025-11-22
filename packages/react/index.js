@@ -72,3 +72,5 @@ export {
   useActionState,
   version,
 } from './src/ReactClient';
+
+console.log("Qué pasa madafakas");
